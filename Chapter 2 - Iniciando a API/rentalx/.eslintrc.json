@@ -16,10 +16,7 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "indent": [
-            "error",
-            "tab"
-        ],
+        "no-mixed-spaces-and-tabs":"off",
         "linebreak-style": [
             "error",
             "unix"
@@ -29,7 +26,7 @@
             "single"
         ],
         "semi": [
-            "error",
+            "warn",
             "always"
         ],
         "eqeqeq": [
