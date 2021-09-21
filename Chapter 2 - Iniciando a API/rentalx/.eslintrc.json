@@ -22,7 +22,7 @@
             "unix"
         ],
         "quotes": [
-            "error",
+            "warn",
             "single"
         ],
         "semi": [
@@ -38,6 +38,9 @@
             "error",
             "always"
         ],
-        "block-spacing": "error"
+        "object-curly-spacing": [
+            "warn",
+            "always"
+        ]
     }
 }
