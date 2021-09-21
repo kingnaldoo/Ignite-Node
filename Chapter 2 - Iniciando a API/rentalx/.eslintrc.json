@@ -35,8 +35,8 @@
         ],
         "dot-notation": "error",
         "space-before-function-paren": [
-            "error",
-            "always"
+            "warn",
+            "never"
         ],
         "object-curly-spacing": [
             "warn",

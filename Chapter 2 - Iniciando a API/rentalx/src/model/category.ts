@@ -6,11 +6,11 @@ class Category {
     description: string;
     created_at: Date;
 
-    constructor () {
+    constructor() {
     	if(!this.id) {
     		this.id = uuidv4();
     	}
     }
-}
+} 
 
 export { Category };
