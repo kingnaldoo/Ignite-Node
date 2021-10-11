@@ -4,12 +4,8 @@
         "node": true
     },
     "extends": [
-<<<<<<< HEAD
-        "airbnb-base"
-=======
         "eslint:recommended",
         "plugin:@typescript-eslint/recommended"
->>>>>>> 2009172d8be78d9710b146322d8f1e4f72c198f8
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
@@ -20,8 +16,6 @@
         "@typescript-eslint"
     ],
     "rules": {
-<<<<<<< HEAD
-=======
         "no-mixed-spaces-and-tabs":"off",
         "linebreak-style": [
             "error",
@@ -48,6 +42,5 @@
             "warn",
             "always"
         ]
->>>>>>> 2009172d8be78d9710b146322d8f1e4f72c198f8
     }
 }

@@ -1,13 +1,5 @@
 {
   "compilerOptions": {
-<<<<<<< HEAD
-    "target": "es6",
-    "module": "commonjs",
-    "outDir": "./dist",
-    "esModuleInterop": true
-  }
-}
-=======
     "target": "ES2021",                                     
     "lib": ["ES6"],                                        
     "module": "commonjs",                                
@@ -25,4 +17,3 @@
     "skipLibCheck": true
   }
 }
->>>>>>> 2009172d8be78d9710b146322d8f1e4f72c198f8
