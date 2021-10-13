@@ -12,6 +12,8 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "removeComments": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
